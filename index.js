@@ -44,6 +44,6 @@ var x = setInterval(function() {
     countDownDate = new Date(dates[countDownIndex]).getTime();
 
     // Display the new countdown in the element with id="meet"
-    document.getElementById("meet").innerHTML = "Next event: " + dates[countDownIndex];
+    document.getElementById("meet").innerHTML = dates[countDownIndex];
   }
 }, 1000);
