@@ -23,4 +23,4 @@ landing page
 
 # Site
 the site can be accessed here:
-gaming-club.pages.dev(https://gaming-club.pages.dev)
+[gaming-club.pages.dev](https://gaming-club.pages.dev)
