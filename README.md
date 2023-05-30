@@ -19,9 +19,8 @@ landing page
 404 page
 
 # Planned
-*Countdown for activities on "Activities.html"
-Claimed by @Alties-GamingYT
+- Countdown for activities on "Activities.html" | Claimed by @Alties-GamingYT
 
 # Site
 the site can be accessed here:
-https://gaming-club.pages.dev
+gaming-club.pages.dev(https://gaming-club.pages.dev)
