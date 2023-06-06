@@ -20,6 +20,7 @@ landing page
 
 # Planned
 - Countdown for activities on "Activities.html" | Claimed by @Alties-GamingYT
+- Change site to use [ASTRO](https://astro.build/) | Claimed by @Alties-GamingYT
 
 # Site
 the site can be accessed here:
