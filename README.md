@@ -21,10 +21,10 @@ landing page
 # Planned
 - Countdown for activities on "Activities.html"
   -  Claimed by @Alties-GamingYT
-  -  Short Term (expected befor the 23-24 school year)
+  -  Short Term (expected beforr the 23-24 school year)
 - Change site to use [ASTRO](https://astro.build/)
   -  Claimed by @Alties-GamingYT
-  -  Long Term (year out as of 6/10/2023)
+  -  Long Term (year out as of 6/10/2023 [arround the 24-25 schoolyear])
 - meetings site:
  ```asciidoc 
  ## meeting-minutes
@@ -33,8 +33,13 @@ landing page
     - contents of meetings
     - Attendies (typicly and mainly number of attendies)
 ```
+  -  Claimed by @Alties-GamingYT
+  -  Short Term (expected before the 23-24 school year)
+
+
 # Possible Projects
 - Minecraft server
+- laptops for during meets
 # Site
 the site can be accessed here:
 [gaming-club.pages.dev](https://gaming-club.pages.dev)
