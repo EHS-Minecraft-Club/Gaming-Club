@@ -34,7 +34,7 @@ landing page
     - Attendies (typicly and mainly number of attendies)
 ```
   -  Claimed by @Alties-GamingYT
-  -  Short Term (expected before the 23-24 school year)
+  -  Short Term (needed before the 23-24 school year)
 
 
 # Possible Projects
