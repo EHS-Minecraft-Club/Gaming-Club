@@ -19,9 +19,22 @@ landing page
 404 page
 
 # Planned
-- Countdown for activities on "Activities.html" | Claimed by @Alties-GamingYT
-- Change site to use [ASTRO](https://astro.build/) | Claimed by @Alties-GamingYT
-
+- Countdown for activities on "Activities.html"
+  -  Claimed by @Alties-GamingYT
+  -  Short Term (expected befor the 23-24 school year)
+- Change site to use [ASTRO](https://astro.build/)
+  -  Claimed by @Alties-GamingYT
+  -  Long Term (year out as of 6/10/2023)
+- meetings site:
+ ```asciidoc 
+ ## meeting-minutes
+ Meeting Minutes (every meeting) and audio recordings (select meetings)
+  - Minutes will include:
+    - contents of meetings
+    - Attendies (typicly and mainly number of attendies)
+```
+# Possible Projects
+- Minecraft server
 # Site
 the site can be accessed here:
 [gaming-club.pages.dev](https://gaming-club.pages.dev)
