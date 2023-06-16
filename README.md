@@ -7,7 +7,7 @@ alton@altonrose.xyz or 136974@students.laramie1.org
 # what each file is/does
 ## index.js
 Index.js makes the next meet countdown work, it will only be touched once per year, it will be used to update meet dates
-## FromMinecraftClub.html
+## FromMinecraftClub.html (Retiring Soon)
 this is only used for telling people whom scan the old Minecraft Club QR that Minecraft Club is no more
 ## SDI.html
 "Snack & Drink Information"
