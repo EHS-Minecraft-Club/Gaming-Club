@@ -40,6 +40,10 @@ landing page
 # Possible Projects
 - Minecraft server
 - laptops for during meets
-# Site
-the site can be accessed here:
+# production site & GitHub
 [gaming-club.pages.dev](https://gaming-club.pages.dev)
+[GitHub](https://github.com/EHS-Minecraft-Club/Gaming-Club)
+
+# Beta/Tester site & GitHub
+[gaming-club-beta.pages.dev](https://gaming-club-beta.pages.dev)
+[GitHub](https://github.com/EHS-Minecraft-Club/Gaming-Club-Beta)
