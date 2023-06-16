@@ -22,7 +22,7 @@ landing page
 - Countdown for activities on "Activities.html"
   -  Claimed by @Alties-GamingYT
   -  Short Term (expected beforr the 23-24 school year)
-- Change site to use [ASTRO](https://astro.build/)
+- Change site to use [ASTRO](https://astro.build/) (in testing [check the beta site])
   -  Claimed by @Alties-GamingYT
   -  Long Term (year out as of 6/10/2023 [arround the 24-25 schoolyear])
 - meetings site:
